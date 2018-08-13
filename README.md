@@ -5,10 +5,10 @@ I used  [Jasmine](http://jasmine.github.io/) to write tests against an existing 
 
 ## How to run the application:
 
-1.
-2.
-3.
-4.
+1. Get files via cloning from git (https://github.com/Mandeeb/feedreader.git) or downloading the zip file [here](https://github.com/Mandeeb/feedreader.git)
+2. Open index.html with your browser.
+3. Jasmine will run the test suites that have been configured.
+4. The results will be shown at the bottom of the webpage.
 
 
 ## Steps I took to complete the project:
